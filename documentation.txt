@@ -1,0 +1,116 @@
+NÁLADY
+
+pod 0   hrozný
+    1	špatný
+    2
+    3	docela špatný
+    4
+    5 	ok
+    6
+    7	docela dobrý
+    8
+    9	dobrý
+nad 10 	super
+
+
+POČASÍ
+
+zataženo, déšt   -2
+zataženo         -0.5
+déšť             -1.5
+mlha             -1
+zima krom sněhu  -1
+skoro zataženo    0
+skoro jasno      +1
+jasno            +1
+sníh             +2
+
+-----
+když je zima
+
+zataženo         -1
+mlha             -1
+skoro zataženo   -0.5
+skoro jasno      +0.5
+jasno            +1
+
+
+DEN
+
+víkend    +1
+pracovní   0
+
+
+ZNÁMKY průměr
+
+Oskar
+
+1   +1
+2    0
+3   -1
+4   -2
+5   -3
+
+
+Holky
+
+1   +1
+2   -1
+3   -2
+4   -3
+5   -4
+
+
+
+SPÁNEK
+
+Oskar
+
+0-6     -4
+6-7     -2
+7-8     -0,5
+8-9     +0,5
+9-10    +0,5
+10-24   +2
+
+
+Dospělí
+
+0-6     -3
+6-7     -1
+7-8     -0
+8-9     +1
+9-10    +2
+10-24   +2
+
+
+Holky
+
+0-6     -8
+6-7     -6
+7-8     -3
+8-9     -1
+9-10    +0,5
+10-24   +2
+
+
+
+POHYB
+
+kolo          +2
+běh           +1
+chůze         +1
+workout       +1
+
+
+DO DATABÁZE
+
+id
+datum
+odhadovaná nálada
+nálada zadaná uživatelem
+počasí
+den 
+známky
+spánek 
+pohyb 
